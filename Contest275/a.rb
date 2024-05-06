@@ -1,0 +1,1 @@
+puts arr.find_index(arr.max) + 1
